@@ -1,0 +1,16 @@
+Package: WinterGOAHistorical
+Type: Package
+Title: This is a data package with all of the pre-selectivity winter GOA data in it
+Version: 0.1.0
+Author: Abigail McCarthy
+Maintainer: Also Abigail  <abigail.mccarthy@noaa.gov>
+Description: This contains all the pre-net-selectivity winter GOA data (Shumagins and Shelikof).
+    For Shelikof, this is 1995-2007, and for Shumagins this is 2001-2008. Other sub-areas are 
+    also included in. This package has all of the numbers and biomass at length for all of the different
+    regions in one data set, and all of the numbers and biomass at age for the shelikof surveys in another. 
+    The length & age data are organized by interval, transect, and region. The complete data set is included 
+    in this package, and can also be re-queried using the "Update..." rmd if MB2 is updated and 
+    the data need to be fetched again. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
