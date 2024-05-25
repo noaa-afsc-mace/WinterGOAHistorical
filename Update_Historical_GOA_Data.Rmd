@@ -20,16 +20,13 @@ knitr::opts_chunk$set(echo = TRUE)
 update_datasets <- FALSE
 #update_datasets <- TRUE
 
-#remove when git
- db_name <- "afsc-64"
-user_name = "macebase2"
-pword = "pollock#111"
 
-# if (update_datasets == TRUE) {
-#   db_name <- "afsc-64"
-#   user_name <-  rstudioapi::askForPassword("Enter your Macebase2 username")
-#   pword <- rstudioapi::askForPassword("Enter your Macebase2 password")
-# }
+
+if (update_datasets == TRUE) {
+  db_name <- "afsc-64"
+  user_name <-  rstudioapi::askForPassword("Enter your Macebase2 username")
+  pword <- rstudioapi::askForPassword("Enter your Macebase2 password")
+}
 
 
 
