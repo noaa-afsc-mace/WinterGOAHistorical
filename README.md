@@ -14,7 +14,8 @@ A simple data package to provide background to MACE Cruise Reports
 
 3. Load WinterGOAHistorical
 
-`devtools::install_github('noaa-afsc-mace/WinterGOAHistorical')`
+`devtools::install_github('abigailatsea/WinterGOAHistorical')`
+
 
 ## More information can be found on the [WinterGOAHistorical page](https://noaa-afsc-mace.github.io/WinterGOAHistorical/)
 
