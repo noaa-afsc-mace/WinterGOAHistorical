@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/authors.html</loc>
+  </url>
+  <url>
+    <loc>/index.html</loc>
+  </url>
+  <url>
+    <loc>/404.html</loc>
+  </url>
+  <url>
+    <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/PreSelectivityWinterGOA.html</loc>
+  </url>
+  <url>
+    <loc>/reference/PreSelectivityWinterGOAages.html</loc>
+  </url>
+  <url>
+    <loc>/reference/query_run_time.html</loc>
+  </url>
+</urlset>
