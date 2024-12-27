@@ -16,7 +16,7 @@ A simple data package to provide background to MACE Cruise Reports
 
 `devtools::install_github('noaa-afsc-mace/WinterGOAHistorical')`
 
-file:///D:/R/work/WinterGOAHistorical/docs/index.html
+file:///E:/R/work/WinterGOAHistorical/docs/index.html
 ## More information can be found on the [WinterGOAHistorical page](https://noaa-afsc-mace.github.io/WinterGOAHistorical/)
 
 This data package contains two dataframes. PreSelectivityWinterGOA.RData is the pre-selectivity biomass and numbers at length by interval for all of the winter GOA survey regions. The other (PreSelectivityWinterGOAages.RData) is pre-selectivity biomass and numbers at AGE by interval for just Shelikof, because we don't have Shumagins age data. 

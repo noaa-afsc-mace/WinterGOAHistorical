@@ -12,6 +12,7 @@
 #'   \item{Description}{The original descriptor in old MB}
 #'   \item{Numbers}{Numbers of fish in that edsu}
 #'   \item{Biomasskg}{Biomass (kg) of fish in that edsu}
+#'   \item{Width}{Width (nm) of transect in that edsu}
 #'   \item{START_TIME}{Date and Time (UTC) at the start of the interval}
 #'   \item{Region}{Region in which the survey was performed, used st_join(st_within) from the sf library and updated geographic regions stored in:
 #'  'G://ARCVIEW//exported_shapefiles//winter_survey_regions_BarnabasChiniak_NAD1983' to determine survey area}
